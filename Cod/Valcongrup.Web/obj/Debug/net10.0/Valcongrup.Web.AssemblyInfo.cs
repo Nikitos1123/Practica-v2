@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Valcongrup.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d05c0b30820abc0d011c026fa588468fe4928a25")]
 [assembly: System.Reflection.AssemblyProductAttribute("Valcongrup.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Valcongrup.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

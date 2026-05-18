@@ -4,6 +4,8 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>Valcongrup.Web</AssemblyName>
+    <RootNamespace>Valcongrup.Web</RootNamespace>
   </PropertyGroup>
 
 </Project>

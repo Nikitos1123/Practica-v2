@@ -15,13 +15,14 @@ C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\Val
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\Valcongrup.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\Valcongrup.Web.RazorAssemblyInfo.cache
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\Valcongrup.Web.RazorAssemblyInfo.cs
+C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\Valcongrup.Web.sourcelink.json
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\scopedcss\bundle\Valcongrup.Web.styles.css
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\scopedcss\projectbundle\Valcongrup.Web.bundle.scp.css
-C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\compressed\enbt4nqzre-{0}-npom03xu4e-npom03xu4e.gz
+C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\compressed\enbt4nqzre-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\compressed\gqsl5lvha4-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\compressed\3l2bi8ws6q-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\compressed\jht5r8g8pd-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -95,4 +96,3 @@ C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\ref
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\Valcongrup.Web.pdb
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\Valcongrup.Web.genruntimeconfig.cache
 C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\ref\Valcongrup.Web.dll
-C:\Users\Nikita\Desktop\Practica anul 2\Cod\Valcongrup.Web\obj\Debug\net10.0\compressed\enbt4nqzre-{0}-lgs8dmdh47-lgs8dmdh47.gz
